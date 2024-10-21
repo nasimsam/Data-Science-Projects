@@ -9,6 +9,7 @@
 
 **Predictive modeling for flight ticket prices**
 <br>
+<br>
 The goal of this project is to develop a machine-learning model that accurately predicts flight fares for any given journey. To achieve this, I followed a structured approach:
 <br>
 - Data analysis: I began by analyzing the data to gain a deeper understanding of its characteristics, including the relationships between different attributes.
